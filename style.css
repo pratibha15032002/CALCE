@@ -10,12 +10,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 /* content css */
 #content {
     background: rgb(68, 135, 173);
     padding: 20px;
     border-radius: 10px;
+    box-shadow: 0px 0px 20px; 
 }
 /*content form input */
 #content form input {
